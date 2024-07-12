@@ -7,8 +7,9 @@
 
 ![](https://komarev.com/ghpvc/?username=arpitam4&color=brightgreen)
 
+- 🌙 Part-time Developer, Full-time Day-Dreamer
 - 🔭 Focusing on DSA and Fullstack
-- 🌱 Trying to become an expert in Game development ❤
+- 🌱 Trying to become an expert in Web development ❤
 - 📰 Reading tech documentation whenever possible.
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
